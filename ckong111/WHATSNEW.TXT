@@ -1,0 +1,26 @@
+***************************************************************************
+*                      CHAMP Ms. Pac-em, ver. 1.1                         *
+***************************************************************************
+
+----------------
+|  WHAT'S NEW  |
+----------------
+
+Version 1.11 11/13/96
+
+      *  Added upgraded sound driver for WIN95 compatibility.
+      *  Fixed some bugs in the collision routines.
+      *  Reduced overall speed of game.
+        
+Version 1.1  05/04/96
+
+      *  Fixed some timing issues with fast computers.
+      *  Improved graphics.
+      *  Improved sound.
+
+Version 1.0  02/13/96
+
+      *  Initial product release
+
+jwc
+6/5/96
