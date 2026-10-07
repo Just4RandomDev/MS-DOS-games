@@ -1,0 +1,6 @@
+Game title : F-15 Strike Eagle III
+License    : Commercial
+Release    : Demo (self-running/interactive)
+File name  : f15se3.zip
+File size  : 797 150 bytes
+Download   : https://web.archive.org/web/19961105210821if_/http://www.holobyte.com/ftp/mps-online/demos/
